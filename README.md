@@ -12,3 +12,6 @@
 
 ## One of my portfolio projects when I was first hired as a data scientist
 - [My notebook](https://github.com/rrherr/hired/blob/master/Get%20data%20from%20image%20of%20chart.ipynb)
+
+## Cumulative gains, ROC AUC, etc
+- To-do ...
