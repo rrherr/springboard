@@ -9,3 +9,6 @@
 
 ## My favorite "day in the life of a data scientist" example
 - By astronomer Jake Vander Plas: ["This series of videos presents a case study in how I personally approach reproducible data analysis within the Jupyter notebook."](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
+
+## One of my portfolio projects when I was first hired as a data scientist
+- [My notebook](https://github.com/rrherr/hired/blob/master/Get%20data%20from%20image%20of%20chart.ipynb)
