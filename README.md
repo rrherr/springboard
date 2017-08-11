@@ -1,5 +1,9 @@
 # springboard
 
+## More capstone examples
+- https://github.com/aajains/springboard-datascience-intensive/tree/master/capstone_project
+- https://docs.google.com/document/d/186AEO-FM7JmnVHxExXIcLhDt6bImomJYy0Vw7ZnPkHM/mobilebasic
+
 ## pandas
 - [official cheat sheet](https://github.com/pandas-dev/pandas/raw/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 - [video tutorials](http://www.dataschool.io/easier-data-analysis-with-pandas/)
