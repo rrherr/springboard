@@ -25,3 +25,7 @@ Helpful for thinking about capstone possibilities
 ## Good intro papers about machine learning
 - [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [Statistical Modeling: The Two Cultures](https://projecteuclid.org/euclid.ss/1009213726)
+
+## LinkedIn 
+- [How to create an elevator speech](https://www.jillkonrath.com/attracting-more-customers)
+- [How to choose the right photo](https://kopywritingkourse.com/how-to-choose-right-image/)
