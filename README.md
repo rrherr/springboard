@@ -8,6 +8,7 @@ Helpful for thinking about capstone possibilities
 - https://github.com/aajains/springboard-datascience-intensive/tree/master/capstone_project
 - https://docs.google.com/document/d/186AEO-FM7JmnVHxExXIcLhDt6bImomJYy0Vw7ZnPkHM/mobilebasic
 - http://blog.fastforwardlabs.com/2017/09/01/LIME-for-couples.html
+- https://laurenshareshian.github.io/Predicting-Portland-Home-Prices/
 
 ## One of my portfolio projects when I was first hired as a data scientist
 - [My notebook](https://github.com/rrherr/hired/blob/master/Get%20data%20from%20image%20of%20chart.ipynb)
