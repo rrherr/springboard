@@ -59,7 +59,7 @@
 
 ### Interpretation
 - [Causal inference in economics and marketing](http://www.pnas.org/content/113/27/7310.full.pdf)
-- [Practical Model Interpretability](https://github.com/jphall663/GWU_data_mining/blob/master/10_model_interpretability/10_model_interpretability.md)
+- [Interpretable machine learning](https://christophm.github.io/interpretable-ml-book/)
 - [When to Act on a Correlation, and When Not To](https://hbr.org/2014/03/when-to-act-on-a-correlation-and-when-not-to)
 - [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726), Sections 8-12
 
