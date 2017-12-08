@@ -77,3 +77,7 @@
 - [Crestle.com](https://www.crestle.com/). "Effortless infrastructure for deep learning." Jupyter Notebook in the cloud with GPU, $0.59/hour.
 - [Keras tutorials](https://blog.keras.io/category/tutorials.html)
 - [Notebooks for Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
+## Creating an interactive web app for your capstone project
+- [Plotly Dash](https://plot.ly/dash/)
+- [Getting Started on Heroku with Python](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)
