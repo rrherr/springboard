@@ -22,6 +22,11 @@
 - ["25 incredible speakers demystify data science, and discuss the training, the tools, and the career path to the best job in the United States."](https://www.thisismetis.com/demystifying-data-science-recordings)
 - ["This series of videos presents a case study in how I personally approach reproducible data analysis within the Jupyter notebook."](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 
+## Jupyter
+- [Jupyter demo videos](https://www.youtube.com/watch?v=DLWBfR2hxoo&list=PLVc-QdfGfSl0vQ0wUlDbqmp0m9hEoIUmF)
+- [try.jupyter.org](https://try.jupyter.org/)
+- [Download Anaconda Distribution](https://www.anaconda.com/download/)
+
 ## Pandas
 - [Documentation](http://pandas.pydata.org/pandas-docs/stable/)
 - [Official cheat sheet](https://github.com/pandas-dev/pandas/tree/master/doc/cheatsheet)
