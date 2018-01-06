@@ -12,11 +12,12 @@
 - [First submission to Kaggle Instacart competition](https://github.com/rrherr/springboard/blob/master/Kaggle%20Instacart%20first%20submission.ipynb)
 
 ### Other
+- [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
 - [Bootcamp Student Responds to Net Neutrality Project Going Viral](http://www.thisismetis.com/blog/metis-student-jeff-kao-responds-to-net-neutrality-project-going-viral)
 - [Why your relationship is likely to last (or not): using Local Interpretable Model-Agnostic Explanations (LIME)](http://blog.fastforwardlabs.com/2017/09/01/LIME-for-couples.html)
 - [Sales Analytics: How to Use Machine Learning to Predict and Optimize Product Backorders](http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html)
 - [Kaggle Kernels](https://www.kaggle.com/kernels)
-- [The Pudding](https://pudding.cool/)
+- [The Pudding](https://pudding.cool/) visual essays
 
 ## Best videos about what becoming/being a data scientist is really like
 - ["25 incredible speakers demystify data science, and discuss the training, the tools, and the career path to the best job in the United States."](https://www.thisismetis.com/demystifying-data-science-recordings)
