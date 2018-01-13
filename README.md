@@ -1,5 +1,17 @@
 # Springboard supplementary materials
 
+## Data sources
+
+### *Not* good for capstone projects
+- [kaggle.com/competitions](https://www.kaggle.com/competitions)
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php), "Most Popular Data Sets"
+- [scikit-learn Toy Datasets](http://scikit-learn.org/stable/datasets/index.html#toy-datasets)
+
+### Could be good for capstone projects
+- [kaggle.com/datasets](https://www.kaggle.com/datasets)
+- [18 places to find data sets for data science projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
+- [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
+
 ## Capstone project examples
 
 ### Springboard
@@ -12,7 +24,6 @@
 - [First submission to Kaggle Instacart competition](https://github.com/rrherr/springboard/blob/master/Kaggle%20Instacart%20first%20submission.ipynb)
 
 ### Other
-- [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
 - [Bootcamp Student Responds to Net Neutrality Project Going Viral](http://www.thisismetis.com/blog/metis-student-jeff-kao-responds-to-net-neutrality-project-going-viral)
 - [Why your relationship is likely to last (or not): using Local Interpretable Model-Agnostic Explanations (LIME)](http://blog.fastforwardlabs.com/2017/09/01/LIME-for-couples.html)
 - [Sales Analytics: How to Use Machine Learning to Predict and Optimize Product Backorders](http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html)
