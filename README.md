@@ -23,21 +23,28 @@
 - [Get data from an image of a chart, using Python & OpenCV](https://github.com/rrherr/hired/blob/master/Get%20data%20from%20image%20of%20chart.ipynb)
 - [First submission to Kaggle Instacart competition](https://github.com/rrherr/springboard/blob/master/Kaggle%20Instacart%20first%20submission.ipynb)
 
-### Other
+### More
+- [The Beautiful Game - Analysis of Football Events](https://www.kaggle.com/ahmedyoussef/the-beautiful-game-analysis-of-football-events)
 - [Bootcamp Student Responds to Net Neutrality Project Going Viral](http://www.thisismetis.com/blog/metis-student-jeff-kao-responds-to-net-neutrality-project-going-viral)
 - [Why your relationship is likely to last (or not): using Local Interpretable Model-Agnostic Explanations (LIME)](http://blog.fastforwardlabs.com/2017/09/01/LIME-for-couples.html)
 - [Sales Analytics: How to Use Machine Learning to Predict and Optimize Product Backorders](http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html)
-- [Kaggle Kernels](https://www.kaggle.com/kernels)
 - [The Pudding](https://pudding.cool/) visual essays
 
 ## Best videos about what becoming/being a data scientist is really like
 - ["25 incredible speakers demystify data science, and discuss the training, the tools, and the career path to the best job in the United States."](https://www.thisismetis.com/demystifying-data-science-recordings)
 - ["This series of videos presents a case study in how I personally approach reproducible data analysis within the Jupyter notebook."](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 
+## Imposter Syndrome
+- [Imposter Syndrome](https://brohrer.github.io/imposter_syndrome.html) by Brandon Rohrer, Data Scientist at Facebook, formerly Microsoft
+- [Imposter Syndrome in Data Science](https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/) by Caitlin Hudon, Data Scientist at Web.com, co-founder of R-Ladies Austin
+- [Effort Shock and Reward Shock](http://www.tempobook.com/2014/07/09/effort-shock-and-reward-shock/)
+- [Khan Academy: You Can Learn Anything](https://www.khanacademy.org/youcanlearnanything) (Growth Mindset)
+
 ## Jupyter
 - [Jupyter demo videos](https://www.youtube.com/watch?v=DLWBfR2hxoo&list=PLVc-QdfGfSl0vQ0wUlDbqmp0m9hEoIUmF)
 - [try.jupyter.org](https://try.jupyter.org/)
 - [Download Anaconda Distribution](https://www.anaconda.com/download/)
+- [Jupyter Notebook Best Practices for Data Science](https://svds.com/jupyter-notebook-best-practices-for-data-science/) ("Lab Notebooks" vs "Deliverable Notebooks")
 
 ## Pandas
 - [Documentation](http://pandas.pydata.org/pandas-docs/stable/)
