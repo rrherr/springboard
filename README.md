@@ -11,6 +11,7 @@
 - [kaggle.com/datasets](https://www.kaggle.com/datasets)
 - [18 places to find data sets for data science projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
 - [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
+- [Data Is Plural archive](https://tinyletter.com/data-is-plural/archive)
 
 ## Capstone project examples
 
