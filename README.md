@@ -21,6 +21,8 @@
 - [Machine Learning & Food Classification](https://simonb83.github.io/machine-learning-food-classification.html)
 
 ### My Stuff
+- [Personal Website](https://rrherr.github.io/)
+- [Teaching computers to play bluegrass banjo, with context-free grammars](https://rrherr.github.io/banjo-grammar/)
 - [Get data from an image of a chart, using Python & OpenCV](https://github.com/rrherr/hired/blob/master/Get%20data%20from%20image%20of%20chart.ipynb)
 - [First submission to Kaggle Instacart competition](https://github.com/rrherr/springboard/blob/master/Kaggle%20Instacart%20first%20submission.ipynb)
 
