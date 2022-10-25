@@ -1,0 +1,26 @@
+title: Springboard Data Science bonus content
+author: Ryan Herr
+copyright: "2022"
+
+execute:
+  execute_notebooks: off
+
+repository:
+  url: https://github.com/rrherr/springboard
+  branch: master
+
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
+
+html:
+  home_page_in_navbar: false
+  use_edit_page_button: true
+  use_repository_button: true
+
+sphinx:
+  recursive_update: true
+  config:
+    html_show_copyright: false
+    html_theme_options:
+      use_fullscreen_button: false
+      use_download_button: false
